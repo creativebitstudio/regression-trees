@@ -1,6 +1,6 @@
 # Machine Learning Example
-## Type of Machine Learning: Supervisied Learning.
-## Type of Alogrithm: Regression
-## Algorithm Name: Decision Tree and Random Forest
+<b>Type of Machine Learning:</b> Supervisied Learning.
+<b>Type of Alogrithm:</b>  Regression
+<b>Algorithm Name:</b>  Decision Tree and Random Forest
 
-### Note: see the notebook file for more on decision tree and random forest. Includes an overiew, diagrams, dataset, and full example of each algorithm name.
+<b>Note:</b>  see the notebook file for more on decision tree and random forest. Includes an overiew, diagrams, dataset, and full example of each algorithm name.
